@@ -298,7 +298,7 @@ Ranked Search Results
 # 🚧 Future Enhancements
 
 - [ ] AJAX live search
-- [ ] Role-Based Access Control (RBAC)
+- [ ] Role-Based Access Control 
 - [ ] Search analytics dashboard
 - [ ] Typo-tolerant search
 - [ ] Elasticsearch integration
