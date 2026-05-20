@@ -203,7 +203,41 @@ if($conn->connect_error){
 
 ?>
 ```
+# 🖼️ Application Preview
 
+## 🖥️ Enterprise Portal Dashboard
+
+<img src="./assets/home.png" width="100%" alt="Enterprise Portal Dashboard">
+
+---
+
+## 🏢 Internal Systems & Services
+
+<img src="./assets/internal_systems.png" width="100%" alt="Internal Systems & Services">
+
+---
+
+## 🔎 Enterprise Search & Discovery
+
+<img src="./assets/search.png" width="100%" alt="Enterprise Search & Discovery">
+
+---
+
+## 📂 Indexed Search Results
+
+<img src="./assets/results.png" width="100%" alt="Indexed Search Results">
+
+---
+
+## 🚀 Portal Navigation Simulation
+
+<img src="./assets/navigation.png" width="100%" alt="Portal Navigation Simulation">
+
+---
+
+## 🏷️ Indexed Keywords & Metadata
+
+<img src="./assets/metadata.png" width="100%" alt="Indexed Keywords & Metadata">
 ---
 
 # 6. Run the Crawler
